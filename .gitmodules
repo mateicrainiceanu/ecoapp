@@ -1,0 +1,9 @@
+[submodule "ecoapp-api"]
+	path = ecoapp-api
+	url = https://github.com/mateicrainiceanu/ecoapp-api
+[submodule "ecoapp-macapp"]
+	path = ecoapp-macapp
+	url = https://github.com/mateicrainiceanu/ecoapp-macapp
+[submodule "ecoapp_client"]
+	path = ecoapp_client
+	url = https://github.com/mihnea112/ecoapp_client
